@@ -6,7 +6,7 @@ div.gdrive {
   width:300px;
   margin:10px 10px 10px 10px;
   padding:5px 5px 5px 5px;
-  font-size: 0.9em; 
+  font-size: 0.8em; 
 }
 
 div.gdrive img {
@@ -16,6 +16,7 @@ div.gdrive img {
 
 div.gdrive a {
   font-weight: bold;
+  text-decoration: none;
 }
 
 body {
